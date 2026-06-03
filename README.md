@@ -1,14 +1,16 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+<h1 align="center">👋 ¡Hola! 👋 </h1>
+<h2 align="center"> Soy <b>FranVi10renji</b> :P 🧡 </h2>
+<h3 align="center"> <b>Ingeniero Informático</b> especializado en <b>Sistemas de Información</b> </h3>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Ingeniero+Inform%C3%A1tico;Graduado+por+la+Universidad+de+C%C3%A1diz;Full+Stack+Developer;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://assets.cntraveller.in/photos/60ba13c3556f29fbec5f2281/master/pass/Tokyo-Shibuya-neon-lights.jpg" alt="Tokyo night" />
 
 </div>
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí 🚀
 
 🎓 Graduado en Ingeniería Informática por la **Universidad de Cádiz (UCA)**
 
@@ -22,17 +24,43 @@
 * Ciberseguridad
 * Desarrollo Full Stack
 
-🎯 Objetivo profesional:
+🎯 Objetivo profesional 🎯:
 
 Construir soluciones escalables, eficientes y con impacto real.
 
 ---
 
-## 🌐 Contacto
+## 👨‍💻 Lenguajes 👨‍💻
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🗄️ Bases de Datos 🗄️
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## 🌐 Contacto 🌐
 
 <p align="center">
 
-<a href="https://linkedin.com/in/TU-USUARIO">
+<a href="https://www.linkedin.com/in/francisco-javier-alcoba-navero-1791ab3a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -45,65 +73,14 @@ Construir soluciones escalables, eficientes y con impacto real.
 </a>
 
 <a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=orange"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠️ Stack Tecnológico
-
-## Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1D?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=nextdotjs)
-![Vue](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
----
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
----
-
-## Bases de Datos
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
----
-
-# 📊 Estadísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranVi10renji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranVi10renji&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Racha de Contribuciones
+# 🔥 Racha de Contribuciones 🔥
 
 <div align="center">
 
@@ -113,17 +90,7 @@ Construir soluciones escalables, eficientes y con impacto real.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FranVi10renji&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Actividad
+# 📈 Actividad 📈
 
 <div align="center">
 
@@ -133,43 +100,7 @@ Construir soluciones escalables, eficientes y con impacto real.
 
 ---
 
-# 📌 Proyectos Destacados
-
-<a href="https://github.com/TU-USUARIO/proyecto-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranVi10renji&repo=proyecto-1&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/TU-USUARIO/proyecto-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranVi10renji&repo=proyecto-2&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/TU-USUARIO/proyecto-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranVi10renji&repo=proyecto-3&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/TU-USUARIO/proyecto-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FranVi10renji&repo=proyecto-4&theme=tokyonight"/>
-</a>
-
----
-
-# 🎓 Formación Académica
-
-**Grado en Ingeniería Informática**
-
-Universidad de Cádiz (UCA)
-
-Especialización en:
-
-* Ingeniería del Software
-* Sistemas Distribuidos
-* Bases de Datos
-* Redes y Comunicaciones
-* Inteligencia Artificial
-
----
-
-# 📚 Actualmente
+# 📚 Actualmente 📚
 
 ```text
 🔭 Desarrollando proyectos personales
@@ -183,12 +114,14 @@ Especialización en:
 
 <div align="center">
 
-### 👀 Visitas al perfil
+### 👀 Visitas al perfil 👀
 
 ![](https://komarev.com/ghpvc/?username=FranVi10renji\&style=for-the-badge)
 
-### ⭐ Gracias por visitar mi perfil
+### ⭐ Gracias por contar conmigo ⭐
 
 *"Code. Learn. Build. Repeat."*
 
 </div>
+
+<img src="https://wallpapers.com/images/hd/lo-fi-anime-tokyo-japan-street-hus7jgiuwztzyzqf.jpg" alt="Tokyo anime scene" />
